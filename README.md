@@ -13,7 +13,7 @@ JEECG BOOT 低代码开发平台（Vue3前端）
 
 ## 简介
 JeecgBoot-Vue3采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。
-是在 Vben-Admin 基础上研发的，适合于JeecgBoot低代码平台的VUE3版前端解决方案，目前已是稳定版本，可用于生产项目。
+是在 Vben-Admin 基础上研发的，适合于JeecgBoot低代码平台的VUE3版前端解决方案，目前已是稳定版本，可用于生产项目.
  
 > 强大的代码生成器让前后端代码一键生成! JeecgBoot引领低代码开发模式(OnlineCoding-> 代码生成-> 手工MERGE)， 帮助解决Java项目70%的重复工作，让开发更多关注业务。既能快速提高效率，节省成本，同时又不失灵活性
 
